@@ -1,3 +1,4 @@
+//This File Was Written By Amin Arjmand | Email: aminarj2000@gmail.com | Site: aminarjmand.com | Github Profile : https://github.com/sibche2013
 //Generate Random Number
 function rand(start, end) {
     var r = start + Math.floor(Math.random() * (end - start));
